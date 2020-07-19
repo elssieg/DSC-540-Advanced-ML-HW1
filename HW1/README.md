@@ -1,4 +1,4 @@
-# DSC-540-Advanced-ML-HW1
+# DSC-540: Homework #1
 For this homework, I focused on analyzing a dataset of Wisconsin Breast Cancer patients to predict the diagnosis of cancer (M = malignant, B = benign). Splitting the data into training (80%) and testing (20%), I then processed the dataset using the following algothrims: 
 
 * Dimensionality Reduction
