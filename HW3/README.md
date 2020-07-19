@@ -1,10 +1,4 @@
-# Homework # 3
-For the first part of this homework I focus on the Wisconsin Breast Cancer Dataset (similar to Homework # 1 & 2).
-I applied a Support Vector Classifier, and perform gridsearch to look for the best parameters. 
+# Homework #3
+Continuing with the Wisconsin Breast Cancer dataset, from homeworks [#1](https://github.com/elssieg/DSC-540-Advanced-ML/tree/master/HW1) and [#2](https://github.com/elssieg/DSC-540-Advanced-ML/tree/master/HW2), I focused on one last algorithm known as _Support Vector Classifier_. I performed this algorithm, because it is well known for having high accuracy rates with smaller datasets, which is the case for the one I had been using. It was run alone for this reason.
 
-In the second half of the homework I looked into a COVID-19 Dataset and visualize the distribution using KDE of the map city.
-
-I also applied Kernel Regression Model on the time series data to predict COVID-19 cases in Panama City, Panama. We use Support Vector Regression, and Kernel Ridge Regression.
-
-
-
+In the other half of the homework, I focused on a COVID-19 dataset. Using KDE, I created a visualization of the distribution over a map of Panama City, Panama. In addition to this, I applied a Kernel Regression Model on the time series data to predict COVID-19 cases in the city.
