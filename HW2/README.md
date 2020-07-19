@@ -1,11 +1,16 @@
 # DSC-540: Homework #2
 
-For this homework, we are still working on the Winsconsin Breast Cancer Dataset. However for this one we are doing: Bootstrap, training a Random Forest Classifier, training a Gradient Boosting Classifier, and using GridSearch to find the best parameters for that specific algorithm.
+For this homework, I continued working with the Winsconsin Breast Cancer dataset. However on this homework, we focused on different algorithms using _GridSearch_ to find the best parameters for each one. Those algorithms being:
 
-Finally, we performed a stacked architecture for the breast cancer prediction problem.
+* Bootstrap
+* Training a Random Forest Classifier
+* Training a Gradient Boosting Classifier
 
-Similarly to Homework 1, we compared the different algorithms by comparing their: 
-i. Accuracy Score
-ii. Confusion Matrix
-iii. ROC Curve
-iv. Precision Recall curves
+After the dataset completed its passthrough with each algorithm, I performed a _stack classification_ to see if I had an improvement in my model's accuracy score.
+
+In addition to the study, I also compared the performance of the different algorithms using metrics, such as:
+
+* Accuracy Score
+* Confusion Matrix
+* ROC Curve
+* Precision Recall Curve.
