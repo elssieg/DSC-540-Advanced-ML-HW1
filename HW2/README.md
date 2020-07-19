@@ -1,6 +1,6 @@
 # DSC-540: Homework #2
 
-For this homework, I continued working with the Winsconsin Breast Cancer dataset. However on this homework, we focused on different algorithms using _GridSearch_ to find the best parameters for each one. Those algorithms being:
+For this homework, I continued working with the Wisconsin Breast Cancer dataset. However on this homework, we focused on different algorithms using _GridSearch_ to find the best parameters for each one. Those algorithms being:
 
 * Bootstrap
 * Training a Random Forest Classifier
